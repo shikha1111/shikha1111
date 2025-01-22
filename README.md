@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**shikha1111/shikha1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data-driven professional with expertise working as a Software Quality And Data Analyst. I specialize in turning complex datasets into clear, actionable insights that drive business decisions. With expertise in data visualization, statistical analysis and problem solving, I strive to bring value to organizations by optimizing data processes and uncovering trends that impact growth
 
-Here are some ideas to get you started:
+I am passionate about leveraging data to solve real-world problems and optimize business operations. Whether it's analysing customer behaviour, improving operational efficiency, or forecast trends, I find purpose in translating raw data into meaningful solutions that support strategic decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Advanced proficiency in Excel
+SQL
+* Python and data visualization tools like Power BI
+* ETL
+* Skilled in statistical analysis
+* A/B testing
+* Building predictive models
